@@ -22,10 +22,3 @@ theme = "hugo-geo"
     title = "Pirate Party India"
     subtitle = "India"
 
-    [[params.navlinks]]
-    name = "Manifesto"
-    url = "manifesto/"
-
-    [[params.navlinks]]
-    name = "Blog"
-    url = "blog/"

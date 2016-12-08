@@ -4,6 +4,6 @@ layoutdir: "layouts"
 publishdir: "public"
 indexes:
   category: "categories"
-baseurl: "https://piratepartyindia.github.io/ppi-manifesto/"
+baseurl: "https://piratepartyindia.com"
 title: "Pirate Party India"
 canonifyurls: true

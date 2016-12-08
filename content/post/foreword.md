@@ -2,7 +2,6 @@
 title = "Foreword to the Pirate Party of India"
 draft = true
 date = "2016-12-08T13:05:18+04:00"
-
 +++
 
 India is at a critical point in it's position at the centerpoint of world politics. We have long failed our democratic duty. I am not talking about our current leaders in the center. I have great admiration for our current leaders and believe that they are doing the best they can for our coutry. But sometimes, the best is not enough. Ask anybody you see walking in the street who his current MLA or MP is and you will understand the nature of the problem that faces our country. 

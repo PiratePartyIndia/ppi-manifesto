@@ -8,7 +8,7 @@ theme = "hugo-geo"
     showglobe = true
 
     # Google Analytics
-    analytics = "SHORT-CODE-HERE"
+    analytics = "UA-88710612-1"
 
     # Social buttons for sidebar
     github = "https://github.com/PiratePartyIndia/ppi-manifesto"

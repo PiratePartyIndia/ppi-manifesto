@@ -11,9 +11,8 @@ theme = "hugo-geo"
     analytics = "SHORT-CODE-HERE"
 
     # Social buttons for sidebar
-    github = "https://github.com/"
-    twitter = "https://twitter.com/"
-    linkedin = "https://linkedin.com"
+    github = "https://github.com/PiratePartyIndia/ppi-manifesto"
+    twitter = "https://twitter.com/piratepartyindia"
     email = "citizen@piratepartyindia.com"
 
     # Sidebar profile picture
@@ -23,15 +22,10 @@ theme = "hugo-geo"
     title = "Pirate Party India"
     subtitle = "India"
 
-    # Nav links below the profile picture
     [[params.navlinks]]
-    name = "About"
-    url = "about/"
+    name = "Manifesto"
+    url = "manifesto/"
 
     [[params.navlinks]]
     name = "Blog"
-    url = "posts/"
-
-    [[params.navlinks]]
-    name = "Tutorials"
-    url = "tutorial/"
+    url = "blog/"

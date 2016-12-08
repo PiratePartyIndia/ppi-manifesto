@@ -10,7 +10,7 @@ But good and responsible governance does not happen by one man. It is only when 
 Governance is not just about decisions and policies made by the current party in power. 
 Ask anybody you see walking in the street who his current MLA or MP is and you will understand the nature of the problem that faces our country. 
 
-The average Indian feels powerless to affect change in society. The policies implemented by Government should be debated beforehand in a public manner. But would there be a point to it? How many of us do understand economic sciences? Politics is thus ruled by emotions. A politician rises when he is able to inspire confidence and trust in the masses. We trust our leaders to do the right thing.
+The average Indian feels powerless to affect change in society. The policies implemented by Government should be debated beforehand in a public manner. But would there be a point to it? How many of us do understand economic sciences? Politics is thus ruled by emotions. A politician rises when he is able to inspire confidence and trust in the masses. We trust our leaders to do the right thing. So it's important that we know that he is surrounded by the best advisers our country has to offer. We cannot stand by idly or ignore who the cabinet members are. The Pirate Party aim to solve this by prioritizing education above all else.
 
 We also need to challenge the threat of Privatization that is creeping upon us in India. we will soon find that all aspects of our lives are being controlled by private corporations who will put their profits above everything else. But how many of us can say what legislative action we support? Who do you call so that your voices may be heard in parliment?
 

@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>http://replace-this-with-your-hugo-site.com/index.xml</link>
+    <link>https://piratepartyindia.github.io/ppi-manifesto/index.xml</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://replace-this-with-your-hugo-site.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://piratepartyindia.github.io/ppi-manifesto/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>

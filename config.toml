@@ -2,3 +2,36 @@ title = "Pirate Party India"
 languageCode = "en-us"
 baseurl = "http://piratepartyindia.com/"
 theme = "hugo-geo"
+
+[params]
+    # Render the rotating globe in the sidebar
+    showglobe = true
+
+    # Google Analytics
+    analytics = "SHORT-CODE-HERE"
+
+    # Social buttons for sidebar
+    github = "https://github.com/"
+    twitter = "https://twitter.com/"
+    linkedin = "https://linkedin.com"
+    email = "citizen@piratepartyindia.com"
+
+    # Sidebar profile picture
+    profilepic = "img/profile.png"
+
+    # Title/subtitle for the sidebar
+    title = "Pirate Party India"
+    subtitle = "India"
+
+    # Nav links below the profile picture
+    [[params.navlinks]]
+    name = "About"
+    url = "about/"
+
+    [[params.navlinks]]
+    name = "Blog"
+    url = "posts/"
+
+    [[params.navlinks]]
+    name = "Tutorials"
+    url = "tutorial/"

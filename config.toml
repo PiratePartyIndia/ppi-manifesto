@@ -1,4 +1,4 @@
 title = "My New Hugo Site"
 languageCode = "en-us"
-baseurl = "https://piratepartyindia.com"
+baseurl = "https://piratepartyindia.com/"
 theme = "hugo-geo"

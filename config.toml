@@ -1,6 +1,6 @@
 title = "Pirate Party India"
 languageCode = "en-us"
-baseurl = "http://piratepartyindia.com/"
+baseurl = "https://piratepartyindia.com/"
 theme = "hugo-geo"
 
 [params]

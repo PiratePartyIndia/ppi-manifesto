@@ -4,6 +4,6 @@ layoutdir: "layouts"
 publishdir: "public"
 indexes:
   category: "categories"
-baseurl: "http://piratepartyindia.com/"
+baseurl: "https://piratepartyindia.com/"
 title: "Pirate Party India"
 canonifyurls: true

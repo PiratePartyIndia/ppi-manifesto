@@ -1,6 +1,6 @@
 +++
 title = "Foreword to the Pirate Party of India"
-draft = true
+draft = false
 date = "2016-12-08T13:05:18+04:00"
 
 +++

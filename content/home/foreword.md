@@ -3,10 +3,7 @@ title = "The Pirate Party of India"
 date = "2016-12-08T13:05:18+04:00"
 +++
 
-I have great admiration for our current leaders and believe that they are doing the best they can for our coutry. The recent actions of the government may be bold and time will tell the effectiveness of such a daring scheme. The only criticism one can make of the events of the last month is that the Government handled the transition badly. They did the best they could do, and while we do applaud them for that, we must recognize that in 2016, it was simply not enough.
-
-
-But good and responsible governance does not happen by one man alone. It is only when society rises together to change itself can we truly improve our way of life.
+Good and responsible governance does not happen by one man alone. It is only when society rises together to change itself can we truly improve our way of life.
 
 
 Governance is not just about decisions and policies made by the current party in power. 

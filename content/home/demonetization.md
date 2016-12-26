@@ -1,13 +1,13 @@
 +++
 draft = true
 description = ""
-date = "2016-12-25T16:26:30+04:00"
+date = "2016-12-26T16:26:30+04:00"
 title = "The Pirate Stance on Demonetization"
 highlight = true
 
 +++
 
-By now every vegetable seller and his mother have realized that Demonetization is a poorly thought out but well intentioned scheme by our very own Central Government. The ramifications of demonetization will be felt well into the next few years and i have no doubt that out of the ashes of the current Indian Economy, a phoenix will rise. That is how Indians are wired. We grit our teeth and move on. 
+By now every vegetable seller and his mother have realized that Demonetization is a poorly thought out but well intentioned scheme by our very own Central Government. The ramifications of demonetization will be felt well into the next few years and i have no doubt that out of the ashes of the current Indian Economy, the phoenix will rise. That is how Indians are wired. We grit our teeth and move on. 
 
 The Pirate Party of India doesn't believe in pointing fingers or casting blame. We seek only to move forward. To that end, we are proposing that we take a stand on the following issues. 
 
@@ -53,8 +53,9 @@ If we are truly moving towards a cashless and digital India, the government shou
 5. Offer Subsidies for Startups engaged in the fintech sector.
 The Government should add offer investment and provide encouragement and regulatory support for startups who are engaged in the fintech sector. Innovation is a very deep routed quality in Indians and we will always persever and find solutions to the problems that we face. 
 
-As the Pirates, our aim first and foremost should be to spread knowledge.
-Spread the knowledge that there is a light shining at the end of the tunnel.
-We are not delusional, we of course understand that some of our demands go against the interests of the very people who hold power. 
-But it is only when we as a nation demand transparency and accountability can we truly move forward.
+As the Pirates, our aim first and foremost should be to spread knowledge. Spread the knowledge of the various options that the government can do but does not. The Lok Sabha is not in session now, (you can try and find your MLA)[http://www.empoweringindia.org/new/Winners.aspx?lblheading=mWinners], go meet him and ask him how the legislature is planning to tackle the various challenges that we as a nation will face in a post-demonetization world.
+
+We are not delusional, we of course understand that some of our demands go against the interests of the very people who hold the power to enact said changes. Add the ebbs and flows of the tides of politics to that and there might be very good reasons why reform such as this would take more than a generation to achieve. 
+But even then, only if we start making a move now. Blaming others has to stop. We must understand that it is only when we as a nation demand transparency and accountability that we can say that we have changed.
+
 Change begins with one person. Change begins with you.

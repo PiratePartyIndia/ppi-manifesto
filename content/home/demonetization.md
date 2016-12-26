@@ -2,23 +2,22 @@
 draft = true
 description = ""
 date = "2016-12-25T16:26:30+04:00"
-title = "The Pirate Party of India's Stance on Demonetization"
+title = "The Pirate Stance on Demonetization"
 highlight = true
 
 +++
 
-Demonetization is as a poorly thought out but well intentioned scheme by our dearest Central Government. The ramifications of demonetization will be felt well into the next few years and i have no doubt that out of the ashes of the current Indian Economy, a phoenix will rise. That is how Indians are wired. We grit our teeth and move on. 
-
-We place no blame to the center for the fallout that is happening on a daily basisbecause of demonetization. They are doing the best that they can and we truly feel that the government should have our support.  
+By now every vegetable seller and his mother have realized that Demonetization is a poorly thought out but well intentioned scheme by our very own Central Government. The ramifications of demonetization will be felt well into the next few years and i have no doubt that out of the ashes of the current Indian Economy, a phoenix will rise. That is how Indians are wired. We grit our teeth and move on. 
 
 The Pirate Party of India doesn't believe in pointing fingers or casting blame. We seek only to move forward. To that end, we are proposing that we take a stand on the following issues. 
 
-1. 0 transaction Fees for all consumer-to-consumer and consumer to buisness transactions below a certain amount.
+1. No transaction Fees for all consumer-to-consumer and consumer-to-buisness transactions below a certain amount.
 
-If the government wishes to shove and kick it's citizens to a cashless India, It is imperative that it be policy as an RBI directive or an action by the legislature to enforce all banks to waive transaction charges / surcharges  and any and all fees for low amount transactions to make it more viable to be used on a daily basis.
-While one can argue that private organizations such as PayTM are enacting such measures, It is imperative that we don't fall into the trap of complacency and not understand why they are truly acting this way. Private entities like paytm can offer a 0 percent transaction charge in the short term, simply to grab a huge market share of the fintech space. They as a for profit company have no obligation to anybody other than their shareholders. 
-[If you are to belive the recent news about corporations behaving like a couple of passive aggressive 5 year olds](http://www.google.com/search?q=SBI+Paytm+twitter+disabled), then you would agree that clear rules and a firm hand are the best way to disciple children.
-Failure to do so would result in catastrophic consequences for the future of our economy.
+If the government wishes to drag its citizens kicking and screaming into the future, they have to make sure that we don't get robbed in the process. It is imperative that it be an RBI directive / an action by the legislature to enforce all banks to waive transaction charges / surcharges  and any and all fees for low amount transactions to make it more viable to be used on a daily basis.
+
+While one can argue that private organizations such as PayTM are enacting such measures, It is imperative that we don't fall into the trap of complacency and not understand why they are truly acting this way. Private companies like paytm can offer a 0 percent transaction charge in the short term, simply to grab a huge market share of the fintech space. They, as a for profit company who have no real obligation to anybody other than their shareholders, can just as simply slap transaction fees on moving currency out of their ecosystem at a later date.
+If you think that [there's no way that respectable nationalized banks would act like 3 year olds who dont want to share their toys](http://www.google.com/search?q=SBI+Paytm+twitter+disabled), then you would agree that clear rules and a firm hand are the best way to disciple children lest they get too out of hand.
+We must act now. Failure to do so would result in catastrophic consequences for the future of our economy.
 
 2. Fine for hospitals who are found denying medical treatment or withholding treatment to patients with old currency. 
 
@@ -31,15 +30,20 @@ All Hospitals and Medical Clinics and Pharmacies should be directed that they ca
 
 3. Bring the following entities under the RTI act so as to allow for better public transparency into private entities especially with regard to their financial disclosures.
 
+While we do understand the complexity and backlash that can be faced on obtaining disclosure from private companies. The RTI is only for "public" entities or namely the Government of India and Associates. We need to expand the scope and reach of the RTI framework to hold private organizations who have their finger in a lot of public pies.
+An organization / trust / charity / religios body with a tax exempt status is essentially stealing money that could otherwise be used for the public good.
+But we as a country offer this status to certain bodies because we think they do good work for the public in some way or the other.
+In return, they should be considered public bodies under the RTI act and should be held accountable for their actions.
+
 > All Political Parties
-We can easily tell now, that while the government rhetoric was once the capture of black money and stopping corruption, they have flipflopped quite dramatically on the matter.
+We can easily tell now, that while the government rhetoric was once the capture of black money and stopping corruption, [they have flipflopped quite dramatically on the matter](http://timesofindia.indiatimes.com/india/political-parties-depositing-old-notes-in-banks-are-exempt-from-income-tax/articleshow/56023361.cms).
 We must demand that the RTI act be expanded to encompass political parties as there must be accountability of those in positions of power and influence as to what their finances were before and after demonetization.
+
+> All Religious Organizations
+It is common knowledge that since demonetization, [you can go to any religious organization and exchange your old cash for new at a 30% rate.](http://www.business-standard.com/article/economy-policy/the-great-indian-jugaad-how-some-are-beating-the-rs-1000-note-ban-116111100406_1.html) This is despicable and insulting to the millions of indians standing in line for a few thousand rupees every week. If a religious organization wants to keep its tax exempt status, they should open up their accounts as well as their members accounts to any RTI requests that they might receive. 
 
 > Any Private Organizations providing Mobile Wallet services
 It is as important to make sure that private for-profit organizations like paytm be watched carefully as they are now in a position to enable very privacy invasive programmes without any accountability and legal framework to stop them. At the very least parts of their working policy should be covered under RTI so as to make sure that they are truly being effective.
-
-> All Religious Organizations
-It is common knowledge that since demonetization, you can go to any religious organization and exchange your old cash for new at a 30% rate. This is despicable and insulting to the millions of indians standing in line for a few thousand rupees every week. If a religious organization wants to keep its tax exempt status, they should open up their accounts as well as their members accounts to any RTI requests that they might receive. 
 
 
 4. Start an initiative for free public wifi in marketplaces to allow for a low barrier of entry for cashless transactions.
@@ -49,4 +53,8 @@ If we are truly moving towards a cashless and digital India, the government shou
 5. Offer Subsidies for Startups engaged in the fintech sector.
 The Government should add offer investment and provide encouragement and regulatory support for startups who are engaged in the fintech sector. Innovation is a very deep routed quality in Indians and we will always persever and find solutions to the problems that we face. 
 
-
+As the Pirates, our aim first and foremost should be to spread knowledge.
+Spread the knowledge that there is a light shining at the end of the tunnel.
+We are not delusional, we of course understand that some of our demands go against the interests of the very people who hold power. 
+But it is only when we as a nation demand transparency and accountability can we truly move forward.
+Change begins with one person. Change begins with you.
